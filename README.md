@@ -1,1 +1,5 @@
-# SH_P4_etude_sur_la_sous_nutrition_dans_le_monde
+**Projet 4 de la formation Data Analyst Openclassrooms : ETUDE SUR LA SOUS-NUTRITION DANS LE MONDE**
+
+Projet réalisé avec Python via un Jupyter Notebook
+
+Mission : A partir de 4 tableaux comportant des données de nutrition pour chaque pays dans le monde, j'ai répondu
